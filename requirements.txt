@@ -1,7 +1,5 @@
 streamlit
-torch==2.5.0
-torchvision
-transformers
+transformers[torch]
 pillow
 numpy
 scikit-learn
